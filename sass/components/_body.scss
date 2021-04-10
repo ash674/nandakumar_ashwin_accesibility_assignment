@@ -17,6 +17,14 @@ margin-top: 50px;
 width: 1000px;
 }
 
+a{display: flex;
+  justify-content: center;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 30px;
+  color: rgb(224, 224, 224);
+}
+
 .pics{
   display: flex;
   flex-direction: row;

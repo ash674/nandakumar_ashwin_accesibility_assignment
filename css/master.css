@@ -18,6 +18,15 @@ video {
   width: 1000px;
 }
 
+a {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 30px;
+  color: #e0e0e0;
+}
+
 .pics {
   display: flex;
   flex-direction: row;
