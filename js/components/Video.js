@@ -16,7 +16,7 @@ export default {
       <video controls class="video" ref="video" :src="'./images/' + file.video" type="video/mp4">
       </video>
   <p>Playing Now: {{ file.descrip }} <p>
-    
+    <a href="./index.html">Back to Menu</a>
 
       </section>
     
